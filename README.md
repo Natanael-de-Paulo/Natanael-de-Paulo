@@ -1,11 +1,11 @@
-## Hello, Welcome to my profile. I am Natanael 👋
+## Olá, bem-vindos! Me chamo Natanael 👋
 
-- 🛠 I currently work as a procution technician at a multinational.
-- 📖 I am currently studying JS and ReactJs.
-- I seek an opportunity as a junior frontend developer.
+- 🛠 Atualmente, trabalho como técnico de produção em uma multinacional.
+- 📖 Estou estudando JS e ReactJs.
+- Procuro uma oportunidade como desenvolvedor júnior, estagiario ou trainee.
 
 <div align="left">
-  <a href="https://github.com/Natanael-de-paulo">
+  <a href="https://github.com/Natanael-de-Paulo">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Natanael-de-Paulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael-de-Paulo&layout=compact&langs_count=7&theme=dark"/>
   </a>
