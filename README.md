@@ -13,7 +13,7 @@
 
 <div align='center'>
   <a href="https://github.com/Natanael-de-paulo">
-    <img height="175em" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=NatanaelDePaulo&theme=dark" />
+    <img height="175em" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=Natanael-de-Paulo&theme=dark" />
   </a>
 </div>
   
