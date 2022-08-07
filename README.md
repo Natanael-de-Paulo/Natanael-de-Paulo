@@ -1,7 +1,7 @@
 ## Olá, bem-vindos! Me chamo Natanael 👋
 
 - 🛠 Atualmente, trabalho como técnico de produção em uma multinacional.
-- 📖 Estou estudando JS e ReactJs.
+- 📖 Estou estudando JavaScript, TypeScript e ReactJs.
 - Procuro uma oportunidade como desenvolvedor júnior, estagiario ou trainee.
 
 <div align="left">
