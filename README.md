@@ -1,7 +1,9 @@
 ## Olá, bem-vindos! Me chamo Natanael 👋
 
-- 🛠 Atualmente, trabalho como técnico de produção em uma multinacional.
-- 📖 Estou estudando JavaScript, TypeScript e ReactJs.
+- 🛠  Atualmente, trabalho como técnico de produção em uma multinacional e prentendo migrar para a aréa tech.
+
+- 📖  O atual foco de estudo está na stack JavaScript e suas Bibliotecas. Tenho aprimorado através da pratica com projetos, a tipagem dos dados com TypeScript e buscando entregar aplicações e interfaces estáticas/dinâmicas responsivas, visando as boas praticas de desenvolvimento, um código semântico e performático, além de buscar manter a aplicação otimizada mantendo os níveis de SEO e acessibilidade dentro dos padrões para uma boa experiência do usuário.
+
 - Procuro uma oportunidade como desenvolvedor júnior, estagiario ou trainee.
 
 <div align="left">
@@ -21,9 +23,14 @@
   <img align="center" alt="Natanael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natanael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natanael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natanael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Natanael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Natanael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Natanael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Natanael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Natanael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  
 </div>
+  
   
 ##
   
