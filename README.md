@@ -1,10 +1,10 @@
 ## Olá, bem-vindos! Me chamo Natanael 👋
 
-- 🛠  Atualmente, trabalho como técnico de produção em uma multinacional e prentendo migrar para a aréa tech.
+-🛠  Atualmente, trabalho como técnico de produção em uma multinacional e prentendo migrar para a aréa tech.
 
-- 📖  O atual foco de estudo está na stack JavaScript e suas Bibliotecas. Tenho aprimorado através da pratica com projetos, a tipagem dos dados com TypeScript e buscando entregar aplicações e interfaces estáticas/dinâmicas responsivas, visando as boas praticas de desenvolvimento, um código semântico e performático, além de buscar manter a aplicação otimizada mantendo os níveis de SEO e acessibilidade dentro dos padrões para uma boa experiência do usuário.
+-📖  O atual foco de estudo está na stack JavaScript e suas Bibliotecas. Tenho aprimorado através da pratica com projetos, a criação de interfaces estáticas/dinâmicas responsivas, visando as boas praticas de desenvolvimento, um código semântico e performático, além de buscar manter a aplicação otimizada mantendo os níveis de SEO e acessibilidade dentro dos padrões para uma boa experiência do usuário. 
 
-- Procuro uma oportunidade como desenvolvedor júnior, estagiario ou trainee.
+-💼  Procuro uma oportunidade como desenvolvedor júnior, estagiario ou trainee.
 
 <div align="left">
   <a href="https://github.com/Natanael-de-Paulo">
@@ -35,6 +35,6 @@
 ##
   
 <div> 
-  <a href = "mailto:contatonatanaeldepaulo123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:natanaeldepaulo123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natanael-de-paulo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
