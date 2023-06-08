@@ -4,15 +4,15 @@
 -📖 Sou uma pessoa próativa, com facilidade em trabalhar em equipe e sempre disposto a ajudar em tarefas extras. Valorizo o aprendizado continuo e o desenvolvimento profissional e pessoal, gosto de trabalhar em ambientes desafiadores e aprender com profissionais mais experientes. Estou comprometido em me aprimorar em programação e disposto a trabalhar duro para cumprir objetivos.
 
 <div align="left">
-  <a href="https://github.com/Natanael-de-Paulo">
-    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Natanael-de-Paulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Natanael-de-Paulo&layout=compact&langs_count=168&theme=dark"/>
+  <a href="https://github.com/natanael-de-paulo">
+    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=natanael-de-paulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natanael-de-paulo&layout=compact&langs_count=168&theme=dark"/>
   </a>
 </div>
 
 <div align='center'>
-  <a href="https://github.com/Natanael-de-paulo">
-    <img height="175em" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=Natanael-de-Paulo&theme=dark" />
+  <a href="https://github.com/natanael-de-paulo">
+    <img height="175em" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=natanael-de-paulo&theme=dark" />
   </a>
 </div>
   
